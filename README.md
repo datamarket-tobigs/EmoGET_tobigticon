@@ -29,7 +29,7 @@ Following the below options, the model creates your own animated emoticon.
 ## DEMO SCREENSHOT
 <img src="https://user-images.githubusercontent.com/55529646/104742200-80552100-578d-11eb-9b2e-ab6464d9b285.jpg" width="850" height="850">  
 
-You can see more informations about web demo [ here ](https://github.com/yourmean/Moving-Emoji-Generation_Web) <br>
+You can see more informations about web demo [ here ](https://github.com/yourmean/Moving-Emoji-Generation_Web). <br>
 
 
 <br>
