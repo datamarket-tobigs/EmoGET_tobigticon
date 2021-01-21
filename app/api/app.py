@@ -78,3 +78,52 @@ def upload():
 
     localpath1=f'../src/public/{want}.png' 
     remotepath1=f'/..../{want}.png' # server path
+    
+    # Connect to sever
+    client = SSHClient()
+    client.set_missing_host_key_policy(paramiko.client.AutoAddPolicy)
+    client.connect('....', username='....', password='....',port= ....)
+    sftp = client.open_sftp()
+    sftp.put(localpath1, remotepath1)
+    
+    
+    channel = client.invoke_shell()
+    channel.send('cd ....\n')
+    channel.send('conda activate ....\n')
+    channel.send(f'python emoticon_generate.py --file {want}.jpg --transform {style_option} --model {model_option} --duration {frame_option}\n')
+    router_output = channel.recv(1024)
+ 
+    localpath2=f'../src/public/{want}.{type_option}'
+    remotepath2=f'/..../{want}.{type_option}'
+
+    sftp.get(remotepath2, localpath2)
+
+    sftp.close()
+    client.close()
+
+    return render_template("complete.html")
+
+
+@app.route('/upload/uploader/download')
+def down_page():
+    files = os.listdir("../src/public")
+    global file_name
+    op = file_name
+    return render_template('download.html', files=files, op=op)
+
+
+@app.route('/upload/uploader/filedown', methods = ['GET','POST'])
+def down_file():
+    if request.method == 'POST':
+        sw = 0
+        files = os.listdir("../src/public/")
+        for x in files:
+            if(x==request.form['file']):
+                sw=1 
+        
+        path = "public/"
+        return send_file(path + request.form['file'], attachment_filename = request.form['file'], as_attachment = True)
+    
+    
+if __name__ == "__main__":
+    app.run(host='0.0.0.0',port=5000, debug=True)
