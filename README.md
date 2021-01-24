@@ -1,5 +1,6 @@
 # 🙂Moving-Emoticon-Generation🤥 
-<img src="https://user-images.githubusercontent.com/55529646/105634653-7d9baf80-5ea2-11eb-9e62-8d035a163564.jpg" width="700" height="400">
+<p align="center"><img src="https://user-images.githubusercontent.com/55529646/105634653-7d9baf80-5ea2-11eb-9e62-8d035a163564.jpg"></p>
+
 <br>
 
 ## Tobigticon - Create Your Own Moving Emoticons Based on Image2Video.
