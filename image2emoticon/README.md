@@ -7,7 +7,7 @@
 
 
 ## Pretrained Checkpoints
-We provide a checkpoint for c-stylegan2 pretrained with ffhq, so you can fintune your own dataset.
+We provide a checkpoint for c-stylegan2 pretrained with ffhq, so you can fintune it with your own dataset.
 
 [pretraind_c-stylegan2.pt]()
 
