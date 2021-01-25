@@ -1,10 +1,8 @@
 # 🙂Moving-Emoticon-Generation🤥 
-<p align="center"><img src="https://user-images.githubusercontent.com/55529646/105634653-7d9baf80-5ea2-11eb-9e62-8d035a163564.jpg"></p>
-
-[![GitHub forks](https://img.shields.io/github/forks/Tobigs-team/EmoGET_tobigticon)](https://github.com/Tobigs-team/EmoGET_tobigticon/network)
-[![GitHub stars](https://img.shields.io/github/stars/Tobigs-team/EmoGET_tobigticon)](https://github.com/Tobigs-team/EmoGET_tobigticon/stargazers)
 [![Google drive](https://img.shields.io/badge/report-Link-orange)](https://drive.google.com/file/d/1PowTASaBUWvX2XWNrMg54-u1QjPwraMZ/view?usp=sharing)
 [![notion](https://img.shields.io/badge/notion-Link-lightgrey)](https://www.notion.so/EmoGE-T-Tobigticon-c2336796af8e4029b252a3090548fd4a)
+
+<p align="center"><img src="https://user-images.githubusercontent.com/55529646/105634653-7d9baf80-5ea2-11eb-9e62-8d035a163564.jpg"></p>
 <br>
 
 ## Tobigticon - Create Your Own Moving Emoticons Based on Image2Video.
