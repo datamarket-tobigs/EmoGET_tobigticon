@@ -72,7 +72,7 @@ Training the landmark generation model using the Sol1 approach.
 python sol1/train.py --data_path DataPath --conditions Conditions
 ```
 
-Train the video generation model using sol2 implemented by mocogan.
+Train the video generation model using sol2 
 
 ```
 # Train the model
