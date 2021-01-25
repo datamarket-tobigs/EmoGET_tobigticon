@@ -1,8 +1,12 @@
 # Tobigticon
+
 ## team sol1: conditional video generation - landmark generation
 
-<p align="center"><img src="https://user-images.githubusercontent.com/55529646/105634251-7d9ab000-5ea0-11eb-9018-2a2f24dda65a.jpg" ></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/55529646/105634251-7d9ab000-5ea0-11eb-9018-2a2f24dda65a.jpg"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/55529646/105634260-855a5480-5ea0-11eb-9a26-b3d724c87984.jpg"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/55529646/105656784-5971ba00-5f06-11eb-887b-b7733ae804e7.jpg"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/55529646/105656786-5aa2e700-5f06-11eb-823f-068a61b1fead.jpg"></p>
+
 <br>
 
 ## Contributor
