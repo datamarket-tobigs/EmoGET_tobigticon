@@ -1,6 +1,5 @@
-# Tobigticon
-
-## team sol1: conditional video generation - landmark generation
+# Moving-Emoji-Generation - team sol1 📖
+## conditional video generation - landmark generation
 
 <p align="center"><img src="https://user-images.githubusercontent.com/55529646/105634251-7d9ab000-5ea0-11eb-9018-2a2f24dda65a.jpg"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/55529646/105634260-855a5480-5ea0-11eb-9a26-b3d724c87984.jpg"></p>
